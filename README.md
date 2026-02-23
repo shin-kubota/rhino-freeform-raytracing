@@ -79,9 +79,10 @@ Development was significantly accelerated with the assistance of LLM technology 
 
 このプラグインは、工業デザイナーである**村田桂太**氏によるCAD操作実習の演習を原点とし、Mosquitoプラグイン（Carson Smuts、Food4Rhino）からヒントを得て、著者がさらに改良したものです。このプラグインは、以下の授業の一環として開発されました。
 
+**東京都立産業技術大学院大学（AIIT）**
 * **デジタルデザイン実習（2022年度、創造技術コース、産業技術研究科、村田桂太 氏）**
 * **機械学習特論（2022年度、創造技術コース、産業技術研究科、教授 林久志 博士）**
-**東京都立産業技術大学院大学（AIIT）**
+
 
 研究に関するプロジェクトリポジトリ:
 [https://github.com/shin-kubota/ophthalmic-lens-design-by-Galapagos](https://github.com/shin-kubota/ophthalmic-lens-design-by-Galapagos)
